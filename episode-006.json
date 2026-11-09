@@ -1,0 +1,21 @@
+{
+  "id": "former-006",
+  "slug": "skrift-og-makt",
+  "title": "Skrift og makt – når tegn blir infrastruktur",
+  "summary": "Hvordan bronseinnskrifter, palassvegger, byrom og monumenter gjorde autoritet synlig fra ca. 1050 til 500 f.Kr.",
+  "published_at": "2026-11-09T18:00:00+01:00",
+  "voice_id": "nhvaqgRyAq6BmFs3WcdX",
+  "narration_file": "006.md",
+  "sources": [
+    {"title": "The Met: China, 2000–1000 B.C.", "url": "https://www.metmuseum.org/toah/ht/03/eac"},
+    {"title": "The Met: Shang and Zhou Dynasties", "url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china"},
+    {"title": "The Met: Mesopotamia, 1000 B.C.–1 A.D.", "url": "https://www.metmuseum.org/toah/ht/04/wam"},
+    {"title": "The Met: Mexico, 1000 B.C.–1 A.D.", "url": "https://www.metmuseum.org/toah/ht/04/cam"},
+    {"title": "The Met: Central and Southern Andes, 1000 B.C.–1 A.D.", "url": "https://www.metmuseum.org/toah/ht/04/sac"}
+  ],
+  "quiz": [
+    {"question": "Hvorfor er en innskrift på et rituelt bronsekar mer enn en etikett?", "answer": "Fordi tekst, dyrt materiale og ritual sammen gjør et minne og en maktpåstand fysisk, gjentakbar og vanskelig å ignorere."},
+    {"question": "Hva gjorde palassrelieffene i Nimrud, utover å vise bilder?", "answer": "De organiserte en kroppsopplevelse gjennom terskler, skala, gjentakelse og tekst; de gjorde kongemakten til et rom man beveget seg gjennom."},
+    {"question": "Hva er forskjellen mellom å sammenligne samfunn og å påstå kontakt mellom dem?", "answer": "Sammenligning kan vise ulike svar på samme problem. Kontakt må ha egne historiske eller arkeologiske bevis."}
+  ]
+}
