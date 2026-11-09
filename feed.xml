@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel><title>Former som verden kan leses i</title><link>https://herkj.github.io/former-som-verden-kan-leses-i</link>
+  <channel><title>Former som verden kan leses i</title><link>https://studio-johnsen.github.io/former-som-verden-kan-leses-i</link>
     <description>En global læringsserie om den menneskeskapte hverdagen.</description><language>no</language>
     <item><guid isPermaLink="false">former-006</guid><title>Skrift og makt – når tegn blir infrastruktur</title>
       <pubDate>Mon, 09 Nov 2026 18:00:00 +0100</pubDate>
       <description><![CDATA[Hvordan bronseinnskrifter, palassvegger, byrom og monumenter gjorde autoritet synlig fra ca. 1050 til 500 f.Kr.<br/><br/><strong>Kilder:</strong><br/><a href="https://www.metmuseum.org/toah/ht/03/eac">The Met: China, 2000–1000 B.C.</a><br/><a href="https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china">The Met: Shang and Zhou Dynasties</a><br/><a href="https://www.metmuseum.org/toah/ht/04/wam">The Met: Mesopotamia, 1000 B.C.–1 A.D.</a><br/><a href="https://www.metmuseum.org/toah/ht/04/cam">The Met: Mexico, 1000 B.C.–1 A.D.</a><br/><a href="https://www.metmuseum.org/toah/ht/04/sac">The Met: Central and Southern Andes, 1000 B.C.–1 A.D.</a>]]></description>
       <itunes:duration>00:11:36</itunes:duration>
-      <enclosure url="https://github.com/herkj/former-som-verden-kan-leses-i/releases/download/episode-006/skrift-og-makt.mp3" length="11134475" type="audio/mpeg"/>
+      <enclosure url="https://github.com/Studio-Johnsen/former-som-verden-kan-leses-i/releases/download/episode-006/skrift-og-makt.mp3" length="11134475" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
